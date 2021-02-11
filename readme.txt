@@ -1,7 +1,3 @@
-So excited to learn Git!
-a
-b
-c
-d
-e
-Thanks to Syed for teaching me the abcs. 
+ML books - 
+PATTERNS, PREDICTIONS, AND ACTIONS: A story about machine learning by Moritz Hardt and Benjamin Recht.
+Link: https://mlstory.org/
